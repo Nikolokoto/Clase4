@@ -1,0 +1,91 @@
+.titulo {
+    color: crimson;
+    font-family: 'Indie Flower', cursive;
+    font-size: 75px;
+    text-align: right;
+}
+
+.section {
+    background-color: fuchsia;
+    padding: 15px auto;
+}
+
+.container {
+    margin: 15px auto;
+    padding: 30px;
+    width: 600px;
+}
+
+.cita {
+    border-left: 3px solid #333333;
+    display: inline-block;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    margin: 0;
+    padding-left: 20px;   
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+.block {
+    display: block;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+}
+
+.first{    
+    background-color: rgb(151, 43, 151);
+}
+
+.second {
+    background-color: palegreen;
+}
+
+.second a {
+    color: black;
+}
+
+.third {
+    background-color: lightslategray;
+}
+
+.fourth {
+    background-color: lightcoral;
+}
+
+.fifth {
+    background-color: rgb(190, 190, 119);
+}
+
+.sixth {
+    background-color: peru;
+}
+
+.first .container {
+    background-color: greenyellow;
+  }
+
+.second .container {
+    background-color: greenyellow;
+  }
+
+.third .container {
+    background-color: greenyellow;
+  }
+
+.fourth .container {
+    background-color: greenyellow;
+  }
+
+.fifth .container {
+    background-color: greenyellow;
+  }
+
+.sixth .container {
+    background-color: greenyellow;
+  }
